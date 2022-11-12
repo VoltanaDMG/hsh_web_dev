@@ -19,6 +19,6 @@
     "vue-property-decorator": "^8.3.0",
     "vue-template-compiler": "^2.6.10",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   }
 }
